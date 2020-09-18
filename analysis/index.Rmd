@@ -9,3 +9,12 @@ editor_options:
 ---
 
 * [Laura](https://lcespedesarias.github.io/workflowr_tutorial/)
+
+# Rest of the team
+* [Julia](https://j-shangguan.github.io/HTML-test/)
+* [Alec](https://alecwilken.github.io/myproject/)
+* [Benjamin](https://btnicholson.github.io/myproject2/)
+* [Cassandra](https://cazeredotseng.github.io/myproject/)
+* [Nathaniel](https://nathaniel-wright.github.io/myproject/)
+* [Peijia](https://peijiay.github.io/myproject/index.html)
+* [Chery](https://cherianchery.github.io/MyProjectTest/)
